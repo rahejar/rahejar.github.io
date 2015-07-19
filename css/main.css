@@ -69,6 +69,7 @@ body {
 .footer ul.social-icons li a i.fa-git-square {
 	background: #000;
 	color: #fff;
+	line-height: 0.6em;
 }
 
 .footer ul.social-icons li a i.fa-linkedin-square {
@@ -79,9 +80,10 @@ body {
 }
 
 .footer ul.social-icons li a i.fa-twitter-square {
-	background-color: #4A97C4;
-	color: #fff;
+	color: #4A97C4;
+	background-color: #fff;
 	line-height: 0.6em;
+	width: 0.67em;
 	border-radius: 2px;
 }
 
